@@ -1,0 +1,1 @@
+Scriptname HealRedemption extends Quest  

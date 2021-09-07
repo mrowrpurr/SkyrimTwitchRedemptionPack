@@ -1,0 +1,1 @@
+Scriptname CocRedemption extends Quest  
